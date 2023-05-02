@@ -1,0 +1,83 @@
+body{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/efb4855d-e702-43e5-9997-bba0154152e0/c1eea051-07ec-4050-aeb5-6eaccb0ace2b/TR-tr-20230417-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+   background-repeat:no-repeat ;
+   background-size: cover;
+}
+.netflix img{
+    width: 200px;
+    margin-top: 5px;
+    margin-left: 15px;
+   
+    
+}
+
+.kart-genel{
+    display: flex;
+    justify-content: center;
+}
+
+.kart{
+    background-color:rgba(0,0,0,.75);
+    
+    width: 340px;
+    height: 400px;
+    padding: 30px;
+}
+.baslik{
+    display: flex;
+    font-size: 30px;
+    color:#fff;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.inputlar input{
+    background-color: #333;
+    border:none;
+    margin-bottom: 8px;
+    width: 92%;
+    padding: 20px;
+    color: #fff;
+}
+
+.oturum-ac button{
+    background-color: #e50914;
+    text-align: center;
+    margin: 24px 0px;
+    color: #fff;
+    border: none;
+    
+    width: 100%;
+    padding: 15px;
+}
+
+.benihatirla-div1{
+    display: flex;
+    color: #fff;
+    justify-content: space-between;
+    }
+.benihatirla-div{
+    display:flex;
+
+}
+.son{
+    color: #8c8c8c;
+    margin-top: 20px;
+    font-size: 13px;
+}
+.son a{
+    text-decoration: none;
+}
+.son .a1{
+      
+    color: #fff;
+      font-size: 16px;
+      font-weight: 700;
+}
+
+.son .a2{
+    color: #0071eb;
+}
+.son .altyazi{
+    margin-bottom: 10px;
+}
+
